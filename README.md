@@ -6,6 +6,9 @@ This program is a classifier that is designed to process an image of the user's 
 ## The Algorithm 
 This program uses the resnet-18 network, a convolutional neural network (CNN) which reduces images to their main features before feeding them into a neural network, to label the input images as 'Benign' or 'Malignant'. The resnet-18 network was retrained using the "Melanoma Cancer Image Dataset" Kaggle database owned by Bhavesh Mittal. (link: https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset?resource=download"). The model was trained on 96 epochs over 23 hours and reached 88.95% test accuracy. 
 ## Running This Project
-
+1. Download the model (below) and the run_network.py file and move them to the same directory in your Jetson Nano
+2. Download the input images onto the nano
+3. Run the command 'python3 run_network.py /IMAGE/PATH'
+4. View the result in the terminal
 ## Download 
 https://drive.google.com/file/d/1tarxMtzUtH0IQnDSrUp2VSCHNQ-tvQ-w/view?usp=sharing 
