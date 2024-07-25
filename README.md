@@ -10,5 +10,7 @@ This program uses the resnet-18 network, a convolutional neural network (CNN) wh
 2. Download the input images onto the nano
 3. Run the command 'python3 run_network.py /IMAGE/PATH'
 4. View the result in the terminal
-## Download 
+## Model Download 
 https://drive.google.com/file/d/1tarxMtzUtH0IQnDSrUp2VSCHNQ-tvQ-w/view?usp=sharing 
+## Video Directions
+link
