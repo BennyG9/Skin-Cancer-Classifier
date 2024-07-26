@@ -13,4 +13,4 @@ This program uses the resnet-18 network, a convolutional neural network (CNN) wh
 ## Model Download 
 https://drive.google.com/file/d/1tarxMtzUtH0IQnDSrUp2VSCHNQ-tvQ-w/view?usp=sharing 
 ## Video Directions
-[link](https://youtu.be/imyhlwhnXa4)
+[https://youtu.be/imyhlwhnXa4](https://youtu.be/imyhlwhnXa4)
